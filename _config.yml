@@ -1,11 +1,11 @@
 # Site settings
-title: cuizhazha Blog
-SEOTitle: cuizhazha 
+title: xuyujun Blog
+SEOTitle:  xuyujun
 header-img: img/home-bg.jpg
-email: 277433031@qq.com
-description: "cuimohan,cuixuefeng,cuizhazha,黑客与画家，PHP是世界上最好的语言"
+email: craftsman1990@163.comn
+description: "xunuo,xuyujun,程序媛，PHP是世界上最好的语言"
 keyword: " Web, PHP, Hacker"
-url: "https://cuixuefeng.github.io"              # your host, for absolute URL
+url: "https://xuyujun.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     cmh888
-zhihu_username:     cuimohan
-github_username:    cuixuefeng
-twitter_username:   cuimohan
+weibo_username:     许诺的空间站
+zhihu_username:     xunuo
+github_username:    craftsman1990
+twitter_username:   xunuo
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: cuimohan
+disqus_username: xunuo
 
 # Netease settings
 netease_comment: false
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: cuimohan.me
+ga_domain: xunuo.me
 
 
 
